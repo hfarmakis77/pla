@@ -1,0 +1,14 @@
+{
+  "access_tokens" : [
+    {
+      "token" : "D989F8",
+      "sent_to_email" : "example1@mydomain.com",
+      "first_use_date" : "2014-08-26T10:13:27+02:00"
+    },
+    {
+      "token" : "99P8W3",
+      "sent_to_email" : "example2@mydomain.com",
+      "first_use_date" : "2014-08-28T10:14:22+21:00"
+    }
+  ]
+}
